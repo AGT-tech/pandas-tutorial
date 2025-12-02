@@ -14,4 +14,7 @@ def main():
   except Exception as e:
     print("Error fetchiing fun fact:", e)
 
+if __name__ == "__main__":
+  main()
+
                                   
